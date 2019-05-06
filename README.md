@@ -6,6 +6,6 @@ SubMachine is a collection of web-based tools for the interactive visualisation,
 
 In short, SubMachine is a computational engine (Machine) to visualize models and datasets of the sub-surface (Sub). 
 
-List of topics covered in Wiki:
+List of the topics covered in Wiki:
 
 - [Cross-sections output](https://github.com/kasra-hosseini/SubMachine_Public/wiki/Cross-sections-output)
