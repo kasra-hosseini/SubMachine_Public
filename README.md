@@ -7,7 +7,7 @@ Public repository for SubMachine (http://submachine.earth.ox.ac.uk).
 List of the topics covered in Wiki/repo:
 
 - [Download DETOX models](https://github.com/kasra-hosseini/SubMachine_Public/tree/master/DETOX)
-- [Spherical harmonics analysis, DETOX models](https://github.com/kasra-hosseini/SubMachine_Public/tree/master/DETOX)
+- [Spherical harmonics analysis, DETOX models](https://github.com/kasra-hosseini/SubMachine_Public/tree/master/DETOX/spherical_harmonics)
 - [Cross-sections output](https://github.com/kasra-hosseini/SubMachine_Public/wiki/Cross-sections-output)
 
 ---
