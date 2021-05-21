@@ -1,6 +1,6 @@
 # DETOX tomography models
 
-Download link: https://zenodo.org/record/3993276#.Xz6xE5NKjlw
+Download link: https://doi.org/10.5281/zenodo.3993276
 
 Citation:
 
